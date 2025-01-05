@@ -1,0 +1,3 @@
+../Core/Src/jpeg_view.c:20:16:jpeg_decode	64	static
+../Core/Src/jpeg_view.c:117:6:jpeg_screen_view	1160	static
+../Core/Src/jpeg_view.c:148:9:CompressToJPEG_RowByRow	1896	static
